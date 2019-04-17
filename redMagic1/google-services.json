@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26533082891",
+    "firebase_url": "https://storybook-redmagic1.firebaseio.com",
+    "project_id": "storybook-redmagic1",
+    "storage_bucket": "storybook-redmagic1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26533082891:android:2f1a261209fad9c9",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.redmagic1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26533082891-fui7k9pptqu3utuu3gtkiimq76819r4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcs8SFbG-z37Mp-FJ1iOYweO6ADMPnto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26533082891-fui7k9pptqu3utuu3gtkiimq76819r4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

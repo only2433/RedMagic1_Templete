@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RedMagic1_Templete.iml" filepath="$PROJECT_DIR$/RedMagic1_Templete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redMagic1/redMagic1.iml" filepath="$PROJECT_DIR$/redMagic1/redMagic1.iml" />
+    </modules>
+  </component>
+</project>
