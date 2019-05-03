@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "22,23,24,25,29,30,31,32",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1093,1181,1307,1396,1658,1727,1784,1843",
-                        "endColumns": "87,125,88,96,68,56,58,65",
-                        "endOffsets": "1176,1302,1391,1488,1722,1779,1838,1904"
-                    },
-                    "to": {
-                        "startLines": "103,107,109,110,116,117,118,119",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "10130,10685,10900,10989,11408,11477,11534,11593",
-                        "endColumns": "87,125,88,96,68,56,58,65",
-                        "endOffsets": "10213,10806,10984,11081,11472,11529,11588,11654"
-                    }
-                },
-                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,22",
@@ -52,6 +35,23 @@
                         "startOffsets": "3841,3967,4111,4206,4274,4346,4405,4479,4561,4659,4731,4803,4894,4999,5064,5133,9451",
                         "endColumns": "125,143,94,67,71,58,73,81,97,71,71,90,104,64,68,148,61",
                         "endOffsets": "3962,4106,4201,4269,4341,4400,4474,4556,4654,4726,4798,4889,4994,5059,5128,5277,9508"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "22,23,24,25,29,30,31,32",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1093,1181,1307,1396,1658,1727,1784,1843",
+                        "endColumns": "87,125,88,96,68,56,58,65",
+                        "endOffsets": "1176,1302,1391,1488,1722,1779,1838,1904"
+                    },
+                    "to": {
+                        "startLines": "103,107,109,110,116,117,118,119",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "10130,10685,10900,10989,11408,11477,11534,11593",
+                        "endColumns": "87,125,88,96,68,56,58,65",
+                        "endOffsets": "10213,10806,10984,11081,11472,11529,11588,11654"
                     }
                 },
                 {
